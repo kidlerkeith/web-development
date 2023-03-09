@@ -1,0 +1,31 @@
+
+h1{
+    color:red;
+}
+body{
+
+    background-color: rgb(255, 0, 60);
+    background-repeat: no repeat;
+    background-position: right;
+    /*background image :url(,/image/index.jpeg);*/
+}
+#para1{
+    border-style: solid;
+    border-color:black;
+    color:yellow;
+    background-color: green;
+    border-radius:20px;
+    
+}
+#para2{
+    border-style:dashed;
+    color:brown;
+}
+
+.one{
+    font-style: italic;
+    font-size:10px;
+    color:blanchalmond;
+    background-color:black;
+}
+
